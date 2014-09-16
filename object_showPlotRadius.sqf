@@ -3,7 +3,7 @@ object_showPlotRadius.sqf
 Modfied by Piggd
 Email: dayzpiggd@gmail.com
 Website: http://dayzpiggd.enjin.com
-Dontaions Accepted via paypal to danpigg@yahoo.com
+Donations Accepted via paypal to danpigg@yahoo.com
 
 Part or standard Epoch ver 1.5.0.1
 Build preview adopted from Axe Cop (@vos) Base Destruction Script
